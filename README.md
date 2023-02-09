@@ -15,7 +15,7 @@ returns, products, customers and territories.
 
 ## Project Pipeline:
 
-![sandipa](https://user-images.githubusercontent.com/80168511/153021060-57b801fe-ae7d-4535-9b87-6949a87f6068.png)
+(https://user-images.githubusercontent.com/80168511/153021060-57b801fe-ae7d-4535-9b87-6949a87f6068.png)
 
 ## Project Walkthrough:
 ### 1. Loading the csv files:
